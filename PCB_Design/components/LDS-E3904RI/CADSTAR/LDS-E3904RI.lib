@@ -1,0 +1,16 @@
+.LDS-E3904RI :1 ;LED Displays & Accessories LED Display
+LDSE3904RI
+*STM DS
+*NGS
+*PLB 1="CATHODE J" 2="CATHODE H" 3="CATHODE F" 4="COMMON ANODES_1" 5="CATHODE G1" 6="CATHODE E" 7="CATHODE N" 8="CATHODE D_1" 9="CATHODE M" 10="CATHODE L" 11="CATHODE D_2" 12="CATHODE DP" 13="COMMON ANODES_2" 14="CATHODE G2" 15="CATHODE B" 16="CATHODE K" 17="COMMON ANODES_3" 18="CATHODE A"
+*MXP 18
+*DFN LDS-E3904RI
+~!Mouser Part Number (696-LDS-E3904RI)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Lumex/LDS-E3904RI?qs=36JUO7CBH3nXP7Q128kxjA%3D%3D)
+~!Manufacturer_Name (Lumex)
+~!Manufacturer_Part_Number (LDS-E3904RI)
+~!Link Datasheet (-)
+~!Height (7mm)
+~!3D_Model (LDS-E3904RI)
+LDS-E3904RI
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 

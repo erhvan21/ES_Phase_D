@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LDS_E3904RI'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Lumex", "LDS-E3904RI" (!) = "", "LDSE3904RI", "Other", "696-LDS-E3904RI", "https://www.mouser.co.uk/ProductDetail/Lumex/LDS-E3904RI?qs=36JUO7CBH3nXP7Q128kxjA%3D%3D", "LED Displays & Accessories LED Display", "", "7 mm"
+END_PART
+
+END.

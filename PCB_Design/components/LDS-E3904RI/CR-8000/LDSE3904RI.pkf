@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "LDSE3904RI"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "LDSE3904RI")
+        (spec "default")
+    )
+)

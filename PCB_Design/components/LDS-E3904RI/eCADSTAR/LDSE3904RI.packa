@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "LDS-E3904RI"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-01-03-17:49:22)
+    (mountForm default
+        (footprintRef "LDSE3904RI")
+        (spec "System")
+    )
+)
